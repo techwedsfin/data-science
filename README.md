@@ -1,4 +1,4 @@
-# data-science
+# data-science/ATL_Crime
 A repository for data science projects
 Description:-
 Write a Data Science blog post. We have explored crime data from Kaggle and analysed it and derived interpretations from it to answer few questions realted to crime.
